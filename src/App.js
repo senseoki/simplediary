@@ -41,7 +41,7 @@ const dummyList = [
 ];
 
 function App() {
-  console.log("App")
+  console.log("Appfaskdjfalskdjfalskdj")
   return (
     <div className="App">
       <DiaryEditor />
