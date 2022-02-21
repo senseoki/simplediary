@@ -1,7 +1,7 @@
 import { useState, useRef } from "react";
 
 const DiaryEditor = () => {
-  console.log("DiaryEditor")
+  console.log("DiaryEditorfffff")
   const [state, setState] = useState({
     author: "",
     content: "",
